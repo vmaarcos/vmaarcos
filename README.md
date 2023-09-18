@@ -1,4 +1,3 @@
-# Sobre Mim
 
 ## 👋 Olá, eu sou Marcos!
 
