@@ -21,5 +21,3 @@
   <a href="https://www.linkedin.com/in/marcos-vinicios-02174b24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<br>
-Fique à vontade para explorar meus repositórios e projetos aqui no GitHub. Estou ansioso para colaborar e aprender com a incrível comunidade de desenvolvedores. 😊
