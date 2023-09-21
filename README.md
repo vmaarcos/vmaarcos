@@ -2,6 +2,7 @@
 ## 👋 Olá, eu sou Marcos!
 
 - 📚 PROA
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jossxz&show_icons=true&theme=radical)
 
 🚀 Tecnologias e Habilidades
 
