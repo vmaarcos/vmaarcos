@@ -1,8 +1,6 @@
 
 ## 👋 Olá, eu sou Marcos!
 
-🚀 Tecnologias e Habilidades
-
 - 📚 PROA
 ##
   
