@@ -4,9 +4,10 @@
 - 📚 PROA
 - web developer
 ##
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-<br/>
-  
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmaarcos&show_icons=true&theme=radical)
 
 ##
@@ -22,7 +23,15 @@
    <img align="center"  height="40" width="50"src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/nextjs-icon.svg" alt="NextJS Icon" />
       
       
-   
+   ### Total de Visitas no perfil :detective: <br>
+
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/vmaarcos/count.svg" />
+ </p>
+ 
+  <div align='center'>
+<a height="150em" href="http://www.github.com/jjunior96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vmaarcos&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
   
   ##
  <hr>
