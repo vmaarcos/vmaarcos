@@ -1,17 +1,18 @@
-
 ## 👋 Olá, eu sou Marcos!
 
 - 📚 PROA
-- web developer
+- Full Stack
+  
+ <br/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmaarcos&show_icons=true&theme=radical)
+
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<br />
+
+
+
 ##
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmaarcos&show_icons=true&theme=radical)
-
-##
-
+<br />
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
@@ -29,9 +30,7 @@
    <img alingn="center" src="https://profile-counter.glitch.me/vmaarcos/count.svg" />
  </p>
  
-  <div align='center'>
-<a height="150em" href="http://www.github.com/vmaarcos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vmaarcos&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
-</div>
+ 
   
   ##
  <hr>
@@ -40,3 +39,4 @@
   <a href="https://www.linkedin.com/in/marcos-vinicios-02174b24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
