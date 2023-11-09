@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Marcos!
 
-- 📚 PROA
+- 📚 Proa
 - student Full Stack 
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmaarcos&show_icons=true&theme=radical)
