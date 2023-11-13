@@ -39,8 +39,10 @@ Linguagens e Ferramentas:
   <a href="https://www.linkedin.com/in/marcos-vinicios-02174b24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br/>
+
 **Melhores Projetos**<br/>
-E-commerce **REACT:https://github.com/vmaarcos/E-commerce** <br/>
+
+E-commerce **REACT**:https://github.com/vmaarcos/E-commerce <br/>
 Sistema de Troca de Marcha em **JAVA:https://github.com/vmaarcos/SistemaCarro** <br/>
 Sistema de hotel **JAVASCRIPT:https://github.com/vmaarcos/Sistema-de-Hotel** <br/>
 Login em **REACT:https://github.com/vmaarcos/Login-React**
