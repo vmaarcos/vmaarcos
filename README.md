@@ -18,6 +18,7 @@ Linguagens e Ferramentas:
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
   <img align="center"  height="70" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
+   <img align="center"  height="70" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  />
    <img align="center"  height="40" width="50"src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/nextjs-icon.svg" alt="NextJS Icon" />
       
       
