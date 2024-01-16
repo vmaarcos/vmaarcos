@@ -15,7 +15,6 @@
 <br />
 Linguagens e Ferramentas:
 <div style="display: inline_block"><br>
-  <i class="fa fa-docker"></i>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
   <img align="center"  height="70" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
