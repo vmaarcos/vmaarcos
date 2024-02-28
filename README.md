@@ -22,6 +22,8 @@ Linguagens e Ferramentas:
   <img align="center"  height="40" width="40"  src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/docker.png"  />
    <img align="center"  height="40" width="50"src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/nextjs-icon.svg" alt="NextJS Icon" />
    <img align="center"  height="40" width="50"src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="prisma Icon" />
+     <img align="center"  height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Icon" />
+    
       
       
    ### Total de Visitas no perfil :detective: <br/>
