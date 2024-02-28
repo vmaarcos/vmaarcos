@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Marcos!
 
 - 📚 ADS 
-- Student Full Stack // cyber security
+- Student Full Stack
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmaarcos&show_icons=true&theme=radical)
  ##
