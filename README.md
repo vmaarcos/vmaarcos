@@ -44,8 +44,4 @@ Linguagens e Ferramentas:
 
 **Melhores Projetos**<br/>
 
-E-commerce **REACT**:https://github.com/vmaarcos/E-commerce <br/>
-Sistema de Troca de Marcha em **JAVA:https://github.com/vmaarcos/SistemaCarro** <br/>
-Sistema de hotel **JAVASCRIPT:https://github.com/vmaarcos/Sistema-de-Hotel** <br/>
-Login em **REACT:https://github.com/vmaarcos/Login-React**
-
+Calma o portfolio ta saindo 
