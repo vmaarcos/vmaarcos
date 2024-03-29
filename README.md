@@ -42,5 +42,4 @@ Linguagens e Ferramentas:
 </div>
 <br/>
 
-**https://portfolio-vmaarcos.vercel.app/**<br/> 
-NÃO ESTÁ PRONTO!!!!
+
