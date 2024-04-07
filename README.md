@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Marcos!
 
 - 📚 ADS 
-- Full Stack // Mobile Developer // Cyber Security 
+- Web Developer // Mobile Developer // Cyber Security 
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmaarcos&show_icons=true&theme=radical)
  ##
