@@ -28,7 +28,9 @@ Linguagens e Ferramentas:
       
    ### Total de Visitas no perfil :detective: <br/>
 
-
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/vmaarcos/count.svg" />
+ </p>
  
  
   
