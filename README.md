@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Marcos!
 
 - 📚 ADS 
-- Web Developer // Mobile Developer // Cyber Security 
+- Web Developer // Dados // Cyber Security 
   
 ## Linguagens 👨🏾‍💻
 <div display="inline">
