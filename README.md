@@ -1,7 +1,7 @@
 ## 👋 Olá
 
 - 📚 ADS 
-- Web Developer // Analytics Data // Cyber Security 
+- Web Developer // Analytics Data 
   
 ## Linguagens 👨🏾‍💻
 <div display="inline">
