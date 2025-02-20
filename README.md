@@ -1,7 +1,8 @@
 ## 👋 Olá
 
-- 📚 ADS 
-- Web Developer // Analytics Data 
+I'm a Developer Front-End and Data Analyst!
+
+A student of Systems Analysis and Development
   
 ## Linguagens 👨🏾‍💻
 <div display="inline">
