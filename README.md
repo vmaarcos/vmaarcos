@@ -1,8 +1,8 @@
 ## 👋 Olá
 
-I'm a Developer Front-End and Data Analyst!
+I'm a Developer Front-End 
 
-A student of Systems Analysis and Development
+A student of Systems Analysis and Development 
   
 ## Linguagens 👨🏾‍💻
 <div display="inline">
